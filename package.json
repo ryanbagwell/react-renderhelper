@@ -1,6 +1,6 @@
 {
-  "name": "react-renderhelper",
-  "version": "1.0.0",
+  "name": "@ryanbagwell/react-renderhelper",
+  "version": "1.0.1",
   "description": "A simple DRY function for rendering components",
   "main": "dist/index.js",
   "scripts": {

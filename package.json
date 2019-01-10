@@ -1,6 +1,6 @@
 {
-  "name": "@ryanbagwell/react-renderhelper",
-  "version": "1.0.1",
+  "name": "@rmb185/react-renderhelper",
+  "version": "1.0.2",
   "description": "A simple DRY function for rendering components",
   "main": "dist/index.js",
   "scripts": {
@@ -18,6 +18,10 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ryanbagwell/react-renderhelper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "homepage": "https://github.com/ryanbagwell/react-renderhelper#readme",
   "devDependencies": {
